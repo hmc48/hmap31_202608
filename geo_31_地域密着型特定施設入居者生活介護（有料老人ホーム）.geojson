@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "有料老人ホームきらめき館　［本館］【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取市覚寺61-2", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100655-00&ServiceCd=361&Type=search", "url2": "https://www.kiramekikan.com" }, "geometry": { "type": "Point", "coordinates": [ 134.228016499999967, 35.5211885 ] } },
+{ "type": "Feature", "properties": { "内容": "吉方温泉友和苑【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取県鳥取市吉方温泉2丁目502番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100697-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.23568272572561, 35.493552491551299 ] } },
+{ "type": "Feature", "properties": { "内容": "さとにメディケアホームいろり【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取県鳥取市里仁54番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100622-00&ServiceCd=361&Type=search", "url2": "http://www.satoni-denen-clinic.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.194084800000041, 35.5033676 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム如月【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取県米子市淀江町佐陀2087", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200794-00&ServiceCd=361&Type=search", "url2": "https://noblelife.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.39797870000001, 35.4486629 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設入居者生活介護　境港すずかけの樹【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取県境港市清水町761番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190400162-00&ServiceCd=361&Type=search", "url2": "http://yonago.matsuets.com" }, "geometry": { "type": "Point", "coordinates": [ 133.217267, 35.5401828 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホームすわの郷【地域密着型特定施設入居者生活介護（有料老人ホーム）】鳥取県八頭郡智頭町三田977番地20", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3191200058-00&ServiceCd=361&Type=search", "url2": "http://www.japan-caresupport.com/outline.html" }, "geometry": { "type": "Point", "coordinates": [ 134.221615020068413, 35.257294950471575 ] } }
+]
+}

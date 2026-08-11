@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス・特定施設入居者生活介護新いなば幸朋苑【特定施設入居者生活介護（軽費老人ホーム）】鳥取県鳥取市浜坂222-1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170100550-00&ServiceCd=332&Type=search", "url2": "https://www.kohoen.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.226897, 35.524602 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護事業所　なんぶ幸朋苑【特定施設入居者生活介護（軽費老人ホーム）】鳥取県米子市石井1238番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170200822-00&ServiceCd=332&Type=search", "url2": "http://www.kohoen.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.35145250000005, 35.4022552 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護事業所　さかい幸朋苑【特定施設入居者生活介護（軽費老人ホーム）】鳥取県境港市誠道町2082番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3150480063-00&ServiceCd=332&Type=search", "url2": "http://www.kohoen.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.235447499999964, 35.5190659 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス大山のふもと【特定施設入居者生活介護（軽費老人ホーム）】鳥取県西伯郡伯耆町大原1013番11", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3171500501-00&ServiceCd=332&Type=search", "url2": "https://daisen-fumoto.com/" }, "geometry": { "type": "Point", "coordinates": [ 133.458168900000032, 35.3852977 ] } }
+]
+}

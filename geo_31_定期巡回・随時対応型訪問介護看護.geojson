@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護　ガーデンハウスはまむら【定期巡回・随時対応型訪問介護看護】鳥取県鳥取市気高町新町二丁目11番地ガーデンハウスはまむら", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100531-00&ServiceCd=760&Type=search", "url2": "https://www.med-wel.jp/gardenhama/" }, "geometry": { "type": "Point", "coordinates": [ 134.047394700000041, 35.5133086 ] } },
+{ "type": "Feature", "properties": { "内容": "エルルの24時間ホームヘルパー【定期巡回・随時対応型訪問介護看護】鳥取県米子市両三柳206-1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200208-00&ServiceCd=760&Type=search", "url2": "http://elfith.com" }, "geometry": { "type": "Point", "coordinates": [ 133.32703513704837, 35.448432303023722 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問介護仁風荘こうやまち【定期巡回・随時対応型訪問介護看護】鳥取県米子市紺屋町104-2", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200174-00&ServiceCd=760&Type=search", "url2": "http://www.yowakai.com/" }, "geometry": { "type": "Point", "coordinates": [ 133.334611099999961, 35.4289134 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問介護事業所なんぶ幸朋苑【定期巡回・随時対応型訪問介護看護】鳥取県米子市石井1238", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200166-00&ServiceCd=760&Type=search", "url2": "http:/www.kohoen.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.35145250000005, 35.4022552 ] } },
+{ "type": "Feature", "properties": { "内容": "ガーデンハウスよどえ【定期巡回・随時対応型訪問介護看護】鳥取県米子市淀江町佐陀1423", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200182-00&ServiceCd=760&Type=search", "url2": "https://www.med-wel.jp/gardenyodoe/" }, "geometry": { "type": "Point", "coordinates": [ 133.393811899999946, 35.4519341 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回随時対応型訪問介護看護真誠会【定期巡回・随時対応型訪問介護看護】鳥取県米子市河崎580", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200190-00&ServiceCd=760&Type=search", "url2": "http://www.hospitown.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.3110285, 35.457018700000035 ] } },
+{ "type": "Feature", "properties": { "内容": "ヘルパーステーションおおたか【定期巡回・随時対応型訪問介護看護】鳥取県米子市尾高1812メディケアコートにじの里おおたか", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200729-00&ServiceCd=760&Type=search", "url2": "https://www.ymc-net.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.406603600000011, 35.4241582 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問介護事業所さかい幸朋苑【定期巡回・随時対応型訪問介護看護】鳥取県境港市誠道町２０８３番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190400063-00&ServiceCd=760&Type=search", "url2": "http://www.kohoen.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.23531980000007, 35.5185576 ] } }
+]
+}

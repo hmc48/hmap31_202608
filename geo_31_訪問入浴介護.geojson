@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_訪問入浴介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "くれよん【訪問入浴介護】鳥取県鳥取市雲山１２３番地２", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170102226-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.239347299999963, 35.4790463 ] } },
+{ "type": "Feature", "properties": { "内容": "サンサン【訪問入浴介護】鳥取県鳥取市国府町新通り3-412", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170102507-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.254121608598325, 35.479566251106519 ] } },
+{ "type": "Feature", "properties": { "内容": "ニチイケアセンターふせ【訪問入浴介護】鳥取県鳥取市布勢422-3", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170102101-00&ServiceCd=120&Type=search", "url2": "http://www.nichiigakkan.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.1808026, 35.5026423 ] } },
+{ "type": "Feature", "properties": { "内容": "みんなのお風呂屋さん　だんだん訪問入浴【訪問入浴介護】鳥取県米子市車尾３―１１―２３", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170203263-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.358561628836071, 35.433304029120904 ] } },
+{ "type": "Feature", "properties": { "内容": "ハピネ訪問入浴センター【訪問入浴介護】鳥取県米子市両三柳2066-1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170200384-00&ServiceCd=120&Type=search", "url2": "http://www.hapine.com" }, "geometry": { "type": "Point", "coordinates": [ 133.332228552888694, 35.451705489369125 ] } }
+]
+}

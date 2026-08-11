@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_看護小規模多機能型居宅介護（複合型サービス）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "かんたき和温【看護小規模多機能型居宅介護（複合型サービス）】鳥取県鳥取市生山１２３番地9", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100788-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 134.2559803, 35.4572663 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能型居宅介護ナーシングホームかけはし【看護小規模多機能型居宅介護（複合型サービス）】鳥取県鳥取市大杙208-1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190100853-00&ServiceCd=&Type=search", "url2": "https://you-plus.jp/" }, "geometry": { "type": "Point", "coordinates": [ 134.2476687, 35.4835597 ] } },
+{ "type": "Feature", "properties": { "内容": "複合型サービス　照陽の家【看護小規模多機能型居宅介護（複合型サービス）】鳥取県米子市角盤町3丁目１２４－３", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200232-00&ServiceCd=&Type=search", "url2": "http://www.careservice-yonago.ecnet.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.330349899999987, 35.4350932 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能型居宅介護真誠会　ふる里【看護小規模多機能型居宅介護（複合型サービス）】鳥取県米子市和田町1722番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200257-00&ServiceCd=&Type=search", "url2": "http://www.hospitown.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.267723400000023, 35.4851817 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能ホーム仁風荘こうやまち【看護小規模多機能型居宅介護（複合型サービス）】鳥取県米子市紺屋町104-2", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3190200752-00&ServiceCd=&Type=search", "url2": "https://www.yowakai.com/" }, "geometry": { "type": "Point", "coordinates": [ 133.334611, 35.428913 ] } }
+]
+}

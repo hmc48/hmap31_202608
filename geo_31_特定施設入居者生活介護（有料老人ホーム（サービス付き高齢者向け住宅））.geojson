@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "オパール特定施設入居者生活介護事業所【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】鳥取県鳥取市雲山４７５番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170101616-00&ServiceCd=&Type=search", "url2": "http://www.t-fukushi.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 134.237755900000025, 35.4748746 ] } },
+{ "type": "Feature", "properties": { "内容": "ともいきの杜樗谿【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】鳥取県鳥取市上町19-1", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170104230-00&ServiceCd=&Type=search", "url2": "https://nkc-tomoiki.com/" }, "geometry": { "type": "Point", "coordinates": [ 134.241407491401674, 35.498775207287764 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護事業所アザレアコートこうほうえん【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】鳥取県米子市両三柳1400番地", "url": "https://www.kaigokensaku.mhlw.go.jp/31/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3170201325-00&ServiceCd=&Type=search", "url2": "http://www.kohoen.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.316257315344274, 35.449914749509539 ] } }
+]
+}
