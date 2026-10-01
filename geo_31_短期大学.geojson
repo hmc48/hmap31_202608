@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_31_短期大学",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "31203", "P29_002": "F231310109449", "P29_003": "16006", "P29_004": "鳥取短期大学", "P29_005": "鳥取県倉吉市福庭854", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 133.859325982776426, 35.455285061558101 ] } }
+]
+}
